@@ -9,4 +9,4 @@ let mySkills = "HTML, CSS, JavaScript";
 let myFavouriteColour = "Pink";
 let myCountryIndependence = 1960;
 
-console.log("My name is " + myFirstname + " " + myLastname + ", " + "I'm currently enrolled in Stutern " + myStuterntrack + " and my skills so far are; " + mySkills + ", " + "my favourite colour is " + myFavouriteColour + "and my country gained independence in " + myCountryIndependence + ".");
+console.log("My name is " + myFirstname + " " + myLastname + ", " + "I'm currently enrolled in Stutern " + myStuterntrack + " and my skills so far are; " + mySkills + ", " + "my favourite colour is " + myFavouriteColour + " and my country gained independence in " + myCountryIndependence + ".");
