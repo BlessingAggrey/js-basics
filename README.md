@@ -1,5 +1,5 @@
 # js-basics Answers
-1. Node.js runs JavaScript outside the browser.
+1. Node runs JavaScript outside the browser.
 2. a. Adding interactive behaviour to web pages.
    b. Creating web and mobile apps.
    c. Game development.
