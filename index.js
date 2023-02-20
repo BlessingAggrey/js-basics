@@ -3,7 +3,6 @@
 // result.innerText =  'Result here...'
 
 
-function add(value1, value2) {}
 function add( value1, value2) {return value1 *  value2}
 console.log(add(20,10));
 
